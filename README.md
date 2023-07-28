@@ -1,4 +1,4 @@
-# Sector Mono
+# Sector Mono (only font files, see https://github.com/atelieramb/Sector_Mono)
 <b>Sector Mono, the typeface</b><br>
 <b>Last edit: February 2023</b><br>
 
